@@ -30,5 +30,4 @@ b. Local and cloud firmware version numbers can be viewed.
 - ...
 
 
-## Join Group
-- .[点击加入"Openwrt_Share Group"群](https://t.me/openwrt_lede_v2ray_plugin)
+
